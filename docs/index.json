@@ -1,0 +1,62 @@
+[
+  {
+    "file": "EmbeddedProgramming-miniprojects/01_PWM_Tone_Generator_with_Buzzer_Interface.md",
+    "title": "PWM Tone Generator with Buzzer Interface"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/02_Low_Power_Temperature_Sampling_with_LM35_Wake_Up.md",
+    "title": "Low Power Temperature Sampling with LM35 Wake Up"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/03_UART_Relay_Transmit_Numeric_Character_and_Blink_LED_on_Receiver.md",
+    "title": "UART Relay Transmit Numeric Character and Blink LED on Receiver"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/04_FreeRTOS_CMSIS_V2_Message_Queue_Temperature_Pipeline.md",
+    "title": "FreeRTOS CMSIS V2 Message Queue Temperature Pipeline"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/05_Simple_Watchdog_Supervision_and_Fault_Recovery.md",
+    "title": "Simple Watchdog Supervision and Fault Recovery"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/06_Adaptive_LED_Brightness_Based_on_Ambient_Light.md",
+    "title": "Adaptive LED Brightness Based on Ambient Light"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/07_Secure_Access_with_Flash_Stored_PIN_Verification.md",
+    "title": "Secure Access with Flash Stored PIN Verification"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/08_Persistent_Button_Press_Counter_Using_Internal_Flash.md",
+    "title": "Persistent Button Press Counter Using Internal Flash"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/09_RTC_Based_Daily_Alarm_and_Event_Logger.md",
+    "title": "RTC Based Daily Alarm and Event Logger"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/10_MPU6050_I2C_Orientation_Monitor.md",
+    "title": "MPU6050 I2C Orientation Monitor"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/11_MPU6000_SPI_Motion_Monitor.md",
+    "title": "MPU6000 SPI Motion Monitor"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/12_DMA_Based_High_Speed_UART_Data_Logger.md",
+    "title": "DMA Based High Speed UART Data Logger"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/13_Interrupt_Based_Industrial_Event_Counter.md",
+    "title": "Interrupt Based Industrial Event Counter"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/14_Timer_Based_Multi_Mode_Digital_Stopwatch.md",
+    "title": "Timer Based Multi-Mode Digital Stopwatch"
+  },
+  {
+    "file": "EmbeddedProgramming-miniprojects/15_Industrial_Water_Tank_Level_Monitoring_System.md",
+    "title": "Industrial Water Tank Level Monitoring System"
+  }
+]
